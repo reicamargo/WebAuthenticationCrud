@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebAuthenticationCrud")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+331b60e543ad65876e2436ca206e5380112027bf")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebAuthenticationCrud")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebAuthenticationCrud")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

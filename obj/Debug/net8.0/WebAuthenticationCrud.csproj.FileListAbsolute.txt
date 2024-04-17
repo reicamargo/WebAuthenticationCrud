@@ -263,3 +263,4 @@
 /Users/reinaldocamargo/Documents/Projects/WebAuthenticationCrud/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Drawing.Common.dll
 /Users/reinaldocamargo/Documents/Projects/WebAuthenticationCrud/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Security.Cryptography.ProtectedData.dll
 /Users/reinaldocamargo/Documents/Projects/WebAuthenticationCrud/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Windows.Extensions.dll
+/Users/reinaldocamargo/Documents/Projects/WebAuthenticationCrud/obj/Debug/net8.0/WebAuthenticationCrud.sourcelink.json

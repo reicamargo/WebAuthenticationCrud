@@ -33,13 +33,10 @@
                 <select asp-for="Premium.StudentId" class ="form-control" asp-items="ViewBag.StudentId"></select>
             </div>
             <div class="form-group">
-                <input type="submit" value="Create" class="btn btn-primary" />
+                <input type="submit" value="Create" class="btn btn-success" /> | 
+                <a class="btn btn-secondary" asp-page="Index">Back to List</a>
             </div>
         </form>
     </div>
-</div>
-
-<div>
-    <a asp-page="Index">Back to List</a>
 </div>
 

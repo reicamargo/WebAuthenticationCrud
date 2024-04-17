@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "3dW5xixS5QtD3RN3lElNXZ36R23crJQDFikqZ+vuf+E=",
+  "Hash": "Y1ZMHKBdh4VJXYG0QBcY3Z2ygHuM+II/wQTLLyWRJJg=",
   "Source": "WebAuthenticationCrud",
   "BasePath": "_content/WebAuthenticationCrud",
   "Mode": "Default",
@@ -1193,6 +1193,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/reinaldocamargo/Documents/Projects/WebAuthenticationCrud/obj/Debug/net8.0/scopedcss/projectbundle/WebAuthenticationCrud.bundle.scp.css"
+    },
+    {
+      "Identity": "/Users/reinaldocamargo/Documents/Projects/WebAuthenticationCrud/wwwroot/css/bootstrap.min.css",
+      "SourceId": "WebAuthenticationCrud",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/reinaldocamargo/Documents/Projects/WebAuthenticationCrud/wwwroot/",
+      "BasePath": "_content/WebAuthenticationCrud",
+      "RelativePath": "css/bootstrap.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/bootstrap.min.css"
     },
     {
       "Identity": "/Users/reinaldocamargo/Documents/Projects/WebAuthenticationCrud/wwwroot/css/site.css",
